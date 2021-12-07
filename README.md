@@ -10,10 +10,9 @@
 	<li>Plugin adds Followers and Followings sub-navigation tab on user profile pages with follow counts in parentheses.</li>
 	<li>Followers tab shows the list of follower users where you can follow them back or unfollow.</li>
 	<li>Followings tab shows the list of followings users where you can unfollow them.</li>
-	<li>Admin can determine which user levels are authorized to see Follower/Following list of other users.</li>
 	<li>Question List page will have another sub-navigation tab called "Friends Feed" which shows questions of only following users.</li>
-	<li>Users can anytime unblock/remove PM blocks.</li>
-	<li>Normally, users can only see their followers/followings lists, but admin can change this in settings.</li>
+	<li>Users can see only their own followers/followings lists, but admin can change this in settings.</li>
+	<li>Admin can determine which user levels are authorized to see Follower/Following list of other users.</li>
 	<li>Plugin has "Only Followers Can PM the User" option. So, if user-A wants to PM user-B, then user-A must be following user-B. Otherwise, PM is not allowed.</li>
 	<li>PM feature of this plugin is also integrated with PM Plus functionalies, so these 2 plugins can work together with no conflict.</li>
 	<br/>
